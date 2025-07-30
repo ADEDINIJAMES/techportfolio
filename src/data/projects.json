@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Next.js E-commerce Store",
+    "description": "Built a fast, SEO-friendly e-commerce store using Next.js, Stripe, and Tailwind CSS.",
+    "link": "https://nextjs-ecommerce-demo.vercel.app/",
+    "image": "https://via.placeholder.com/300x200?text=E-commerce+Store",
+    "video": ""
+  },
+  {
+    "id": 2,
+    "title": "React Real-time Chat App",
+    "description": "Implemented a scalable real-time chat application with WebSocket and Node.js backend.",
+    "link": "https://react-chat-app-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Chat+App",
+    "video": ""
+  },
+  {
+    "id": 3,
+    "title": "Personal Portfolio Website",
+    "description": "Created a responsive portfolio site with React, showcasing projects and blogs.",
+    "link": "https://johndoe.dev/",
+    "image": "https://via.placeholder.com/300x200?text=Portfolio+Website",
+    "video": ""
+  },
+  {
+    "id": 4,
+    "title": "Weather Forecast Dashboard",
+    "description": "Developed a weather app with OpenWeatherMap API and dynamic charts using Chart.js.",
+    "link": "https://weather-dashboard-example.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Weather+Dashboard",
+    "video": ""
+  },
+  {
+    "id": 5,
+    "title": "Task Management Tool",
+    "description": "Built a Kanban-style task manager with drag-and-drop features using React DnD.",
+    "link": "https://task-manager-react-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Task+Manager",
+    "video": ""
+  },
+  {
+    "id": 6,
+    "title": "Fitness Tracker App",
+    "description": "Mobile-first app tracking workouts and nutrition with React Native and Firebase.",
+    "link": "https://fitness-tracker-demo.app/",
+    "image": "https://via.placeholder.com/300x200?text=Fitness+Tracker",
+    "video": ""
+  },
+  {
+    "id": 7,
+    "title": "Recipe Finder",
+    "description": "Search recipes by ingredients with Edamam API integration and user favorites.",
+    "link": "https://recipe-finder-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Recipe+Finder",
+    "video": ""
+  },
+  {
+    "id": 8,
+    "title": "Travel Blog",
+    "description": "A travel blog featuring interactive maps and photo galleries with GatsbyJS.",
+    "link": "https://travel-blog-example.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Travel+Blog",
+    "video": ""
+  },
+  {
+    "id": 9,
+    "title": "Online Learning Platform",
+    "description": "Developed a full-featured online course platform with video streaming and quizzes.",
+    "link": "https://online-learning-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Learning+Platform",
+    "video": ""
+  },
+  {
+    "id": 10,
+    "title": "Music Streaming Service",
+    "description": "Built a music player with playlists, search, and recommendations using Spotify API.",
+    "link": "https://music-streaming-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Music+Streaming",
+    "video": ""
+  },
+  {
+    "id": 11,
+    "title": "Event Planning App",
+    "description": "An app for creating and managing events with RSVP and calendar integration.",
+    "link": "https://event-planner-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Event+Planning",
+    "video": ""
+  },
+  {
+    "id": 12,
+    "title": "Photo Gallery Website",
+    "description": "Responsive photo gallery with filtering and fullscreen slideshow using React.",
+    "link": "https://photo-gallery-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Photo+Gallery",
+    "video": ""
+  },
+  {
+    "id": 13,
+    "title": "Budget Tracker",
+    "description": "Track expenses and income with charts and monthly reports using React and Chart.js.",
+    "link": "https://budget-tracker-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Budget+Tracker",
+    "video": ""
+  },
+  {
+    "id": 14,
+    "title": "Social Media Dashboard",
+    "description": "Dashboard showing social media stats with dark/light mode toggles and charts.",
+    "link": "https://social-media-dashboard-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Social+Media+Dashboard",
+    "video": ""
+  },
+  {
+    "id": 15,
+    "title": "Customer Support Chatbot",
+    "description": "Implemented a chatbot using Dialogflow to automate customer support queries.",
+    "link": "https://support-chatbot-demo.netlify.app/",
+    "image": "https://via.placeholder.com/300x200?text=Support+Chatbot",
+    "video": ""
+  }
+]

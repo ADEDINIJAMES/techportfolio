@@ -1,13 +1,23 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import React from "react";
+import { Routes, Route, Link } from "react-router-dom";
+import PublicPortfolio from "./pages/PublicPortfolio.jsx";
+import AdminDashboard from "./pages/AdminDashBoard";
 
-function App() {
+export default function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-3xl font-bold text-blue-600">Vite + React + Tailwind</h1>
+    <div className="min-h-screen">
+      <nav className="p-4 bg-gray-900 text-white flex justify-between">
+        <Link to="/" className="font-bold">
+          Portfolio
+        </Link>
+        <Link to="/admin" className="hover:underline">
+          Admin
+        </Link>
+      </nav>
+      <Routes>
+        <Route path="/" element={<PublicPortfolio />} />
+        <Route path="/admin" element={<AdminDashboard />} />
+      </Routes>
     </div>
   );
 }
-
-ReactDOM.createRoot(document.getElementById('root')).render(<App />);

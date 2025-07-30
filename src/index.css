@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.bg-animated-gradient {
+  background: linear-gradient(-45deg, #3b82f6, #9333ea, #06b6d4, #f59e0b);
+  background-size: 400% 400%;
+  animation: gradientMove 15s ease infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
